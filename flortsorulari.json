@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "question":"En sevdiğin tatil beldesi neresi?"
+    },
+    {
+        "id": "2",
+        "question": "Kendini bir karaktere benzetseydin, hangisi olurdun?"
+    },
+    {
+        "id": "3",
+        "question": "Hayatında en çok neye şükredersin?"
+    },
+    {
+        "id" : "4",
+        "question":"Hangi spora ilgin var ama henüz deneyemedin?"
+    },
+    {
+        "id" : "5",
+        "question":"Hangi ülkede yaşamak istemezsin?"
+    },
+    {
+        "id" : "6",
+        "question":"Hangi dersleri sevmezsin?"
+    },
+    {
+        "id" : "7",
+        "question":"Hangi evcil hayvanları seversin?"
+    },
+    {
+        "id" : "8",
+        "question":"Hangi animasyon filmlerini seversin?"
+    },
+    {
+        "id" : "9",
+        "question":"Hayatında aldığın büyük risk neydi?"
+    },
+    {
+        "id" : "10",
+        "question":"En sevdiğin türü spor hangisi? Neden?"
+    },
+    {
+        "id" : "11",
+        "question":"Seni en çok etkileyen sanat dalı nedir?"
+    },
+    {
+        "id" : "12",
+        "question":"En sevdiğin kahve türü nedir? Ve bi kahve içmeye ne dersin?"
+    },
+    {
+        "id" : "13",
+        "question":"Birbirimizi daha iyi tanımak için hangi filmi izlemeliyiz?"
+    },
+    {
+        "id" : "14",
+        "question":"Hangi ünlüyle tanışmak isterdin?"
+    },
+    {
+        "id" : "15",
+        "question":"Bir ünlü olsan kim olmak isterdin?"
+    },
+    {
+        "id" : "16",
+        "question":"Hangi yaratıcı hobilerle ilgilenirsin?"
+    },
+    {
+        "id" : "17",
+        "question":"En sevdiğin renk nedir?"
+    },
+    {
+        "id" : "18",
+        "question":"En sevdiğin çocukluk oyunu nedir?"
+    },
+    {
+        "id" : "19",
+        "question":"Hangi tarihi kişiliği daha çok merak edersin?"
+    },
+    {
+        "id" : "20",
+        "question":"Hayalindeki iş nedir?"
+    }
+    ]
